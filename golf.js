@@ -9,7 +9,7 @@ const generateGitignore = require("./util/gitignore");
 const generateReadme = require("./util/readme.js");
 const initPkg = require("./util/initPkg");
 
-function golf(projectName) {
+module.exports = function golf(projectName) {
   const spinner = ora(`Creating ${projectName}...`);
 
   if (fs.existsSync(projectName)) {
@@ -58,6 +58,4 @@ function golf(projectName) {
         process.exit(1);
       });
   });
-}
-
-golf("poop");
+};

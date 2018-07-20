@@ -5,15 +5,15 @@ an actually blazing fast 🚀™ node project scaffolder
 ## usage
 
 ```bash
-yarn global add golf
+yarn global add golfjs
 or
-npm install -g golf
+npm install -g golfjs
 ```
 
 then
 
 ```bash
-$ golf <project name>
+$ golfjs <project name>
 ```
 
 ## what it does
