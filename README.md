@@ -2,6 +2,8 @@
 
 an actually blazing fast 🚀™ node project scaffolder
 
+![](./usage.gif)
+
 ## usage
 
 ```bash
