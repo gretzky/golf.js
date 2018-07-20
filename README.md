@@ -2,7 +2,7 @@
 
 an actually blazing fast 🚀™ node project scaffolder
 
-![](./usage.gif)
+<img src="./usage.gif" width="300px"/>
 
 ## usage
 
