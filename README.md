@@ -13,7 +13,7 @@ npm install -g golfjs
 then
 
 ```bash
-$ golfjs <project name>
+$ golf <project name>
 ```
 
 ## what it does

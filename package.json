@@ -1,9 +1,9 @@
 {
   "name": "golfjs",
-  "version": "0.1.2",
-  "main": "./golf.js",
+  "version": "0.1.3",
+  "main": "./index.js",
   "bin": {
-    "golf": "./golf.js"
+    "golf": "./index.js"
   },
   "keywords": [
     "project generator",
