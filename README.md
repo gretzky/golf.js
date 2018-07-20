@@ -29,6 +29,8 @@ golf generates all of the generic files you need for a nodejs project based on y
 
 it also runs `yarn` or `npm` init (depending on your self) to build a package.json.
 
+need something not node-specific? check out the original [golf](https://github.com/gretzky/golf)
+
 ---
 
 init'd with [golf](https://github.com/gretzky/golf.js)
