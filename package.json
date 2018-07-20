@@ -1,6 +1,6 @@
 {
-  "name": "golf",
-  "version": "0.1.0",
+  "name": "golfjs",
+  "version": "0.1.1",
   "main": "./golf.js",
   "bin": {
     "golf": "./golf.js"
