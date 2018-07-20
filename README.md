@@ -2,7 +2,7 @@
 
 an actually blazing fast 🚀™ node project scaffolder
 
-<img src="./usage.gif" width="500px"/>
+<img src="./usage.gif" width="550px"/>
 
 ## usage
 
@@ -27,7 +27,7 @@ golf generates all of the generic files you need for a nodejs project based on y
 - LICENSE (MIT)
 - README.md
 
-it also runs `yarn` or `npm` init (depending on your self) to build a package.json.
+it also runs `yarn` or `npm` init (depending on your setup) to build a package.json.
 
 ---
 
